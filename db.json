@@ -20,13 +20,6 @@
       "generic": "zero_cool",
       "guide": "zero_cool",
       "unit": "sdt",
-      "dosageSet:[
-        {
-          "date": "21 Sept 2021",
-          "time": "09.00",
-          "dosage": "1"
-        }
-      ]
     }
   ]
 }
